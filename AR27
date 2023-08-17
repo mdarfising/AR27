@@ -1,0 +1,9 @@
+Tool Full Run✅
+pip install requests
+pip install futures
+pip install bs4
+rm -rf AR27
+git clone https://github.com/mdarfising/AR27
+cd AR27
+ls
+python SUPER-2.py
